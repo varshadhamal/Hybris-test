@@ -1,0 +1,14 @@
+#This files was generated. Do not change anything since it will be overwritten.
+#Thu Sep 29 23:47:16 EDT 2016
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/commerceservicesbackoffice.jar=extension\://commerceservicesbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/customersupportbackoffice.jar=extension\://customersupportbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/voucherbackoffice.jar=extension\://voucherbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/commercesearchbackoffice.jar=extension\://commercesearchbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/rulebuilderbackoffice.jar=extension\://rulebuilderbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/basecommercebackoffice.jar=extension\://basecommercebackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/platformbackoffice.jar=extension\://platformbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/ruleenginebackoffice.jar=extension\://ruleenginebackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/promotionenginebackoffice.jar=extension\://promotionenginebackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/solrfacetsearchbackoffice.jar=extension\://solrfacetsearchbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/couponbackoffice.jar=extension\://couponbackoffice
+/home/hybrisUser/hyb6.1/hybris/data/backoffice/widgetlib/deployed/promotionsbackoffice.jar=extension\://promotionsbackoffice

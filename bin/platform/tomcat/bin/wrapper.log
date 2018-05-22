@@ -1,0 +1,52 @@
+FATAL  | wrapper  | 2016/09/22 09:18:32 | Unable to open configuration file: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/conf/wrapper-debug.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/22 09:18:32 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/23 06:53:39 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/23 06:53:39 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/23 07:01:37 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/23 07:01:37 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 05:00:10 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 05:00:10 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 05:22:42 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 05:22:42 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 05:23:01 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 05:23:01 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 05:24:59 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 05:24:59 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 05:26:25 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 05:26:25 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 05:28:10 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 05:28:10 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 07:02:18 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 07:02:18 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/27 09:08:26 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/27 09:08:26 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:21:30 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:21:30 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:23:07 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:23:07 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:24:48 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:24:48 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:29:02 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:29:02 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:32:32 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:32:32 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:43:08 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:43:08 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:44:47 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:44:47 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:50:00 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:50:00 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:52:18 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:52:18 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:53:56 | Unable to open configuration file: /etc/init.d/tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:53:56 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:56:02 | Unable to open configuration file: /etc/init.d/tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:56:02 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 09:57:28 | Unable to open configuration file: /home/hybrisUser/hyb6.1/hybris/tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 09:57:28 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 10:00:00 | Unable to open configuration file: /home/hybrisUser/tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 10:00:00 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 10:05:19 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 10:05:19 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
+FATAL  | wrapper  | 2016/09/29 10:50:14 | Unable to open configuration file: //tomcat/conf/wrapper.conf (No such file or directory)
+FATAL  | wrapper  | 2016/09/29 10:50:14 |   Current working directory: /home/hybrisUser/hyb6.1/hybris/bin/platform/tomcat/bin
